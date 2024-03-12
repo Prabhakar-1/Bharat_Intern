@@ -12,7 +12,7 @@ This repository contains code for predicting wine quality and house prices using
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <gh repo clone Prabhakar-1/Bharat_Intern>`
 2. Open the Jupyter Notebook or Python script file containing the code for wine quality and house price prediction.
 3. Run the code cells or execute the script to perform data preprocessing, model training, prediction, evaluation, and visualization.
 
